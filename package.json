@@ -19,7 +19,7 @@
     "commands": [
       {
         "command": "waypointer.Save",
-        "title": "Save Current"
+        "title": "Save At Current"
       },
 
       {
