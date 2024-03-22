@@ -1,3 +1,3 @@
 # waypointer README
 
-Tidk testing
+idk testing
