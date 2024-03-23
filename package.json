@@ -1,7 +1,8 @@
 {
   "name": "waypointer",
   "displayName": "Waypointer",
-  "description": "yes",
+  "publisher": "haotian2006",
+  "description": "A simple plugin used to save points in code to go back to",
   "version": "0.0.1",
   "repository": {
     "type": "git",
@@ -30,23 +31,29 @@
     "keybindings": [
       {
         "command": "waypointer.Save",
-        "key": "ctrl+alt+1"
+        "key": "ctrl+alt+1",
+        "mac": "Ctrl+cmd+1"
       },
       {
         "command": "waypointer.BackWithoutClear",
-        "key": "ctrl+alt+2"
+        "key": "ctrl+alt+2",
+        "mac": "ctrl+cmd+2"
       },
       {
         "command": "waypointer.Back",
-        "key": "ctrl+alt+`"
+        "key": "ctrl+alt+`",
+        "mac": "ctrl+cmd+`"
       },
       {
         "command": "waypointer.Forward",
-        "key": "ctrl+alt+3"
+        "key": "ctrl+alt+3",
+        "mac": "ctrl+cmd+3"
       },
       {
         "command": "waypointer.Clear",
-        "key": "ctrl+alt+4"
+        "key": "ctrl+alt+4",
+        "mac": "ctrl+cmd+4"
+
       }
     ]
   },
