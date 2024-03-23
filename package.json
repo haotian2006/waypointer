@@ -3,7 +3,7 @@
   "displayName": "Waypointer",
   "publisher": "haotian2006",
   "description": "A simple plugin used to save points in code to go back to",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
     "type": "git",
     "url": "https://github.com/haotian2006/waypointer"
